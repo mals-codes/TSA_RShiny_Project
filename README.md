@@ -66,14 +66,6 @@ Example:
 | 2023-01-01 | 100   |
 | 2023-02-01 | 120   |
 
-## 📸 Screenshots
-
-| Original Time Series | ACF/PACF Plots | Model Forecast |
-|----------------------|----------------|----------------|
-| ![TS Plot](#)        | ![ACF Plot](#) | ![Forecast](#) |
-
-*Replace `#` with actual image links if uploading screenshots.*
-
 ## 🧠 Model Logic
 
 - **Stationarity Check**: ADF Test after differencing
