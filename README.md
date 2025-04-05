@@ -75,23 +75,7 @@ Example:
   - **SARIMA**: if seasonal patterns detected
   - **GARCH**: if data shows volatility clustering
 
-## 📋 TODO
-
-- [ ] Add seasonal decomposition
-- [ ] Allow seasonal adjustment before modeling
-- [ ] Export reports as PDF/HTML
-- [ ] Enable custom forecast horizon input
-
-## 🤝 Contributing
-
-Pull requests and feedback are welcome! Please open an issue first to discuss major changes.
-
-## 📄 License
-
-MIT License. Feel free to use, modify, and distribute.
-
 ## 👤 Author
 
-**[Your Name]**  
+**Malavika Madhu** 
 _Masters in Statistics | Time Series Enthusiast_  
-[LinkedIn](#) | [GitHub](#)
